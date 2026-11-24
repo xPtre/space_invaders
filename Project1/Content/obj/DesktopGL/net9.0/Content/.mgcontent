@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue01.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue02.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue03.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue04.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue05.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue06.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue07.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue08.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue09.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue10.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue11.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue12.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue13.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue14.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue15.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserBlue16.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen01.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen02.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen03.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen04.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen05.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen06.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen07.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen08.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen09.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen10.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen11.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen12.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen13.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen14.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen15.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserGreen16.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed01.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed02.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed03.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed04.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed05.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed06.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed07.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed08.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed09.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed10.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed11.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed12.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed13.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed14.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed15.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/laserRed16.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip1_blue.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip1_green.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip1_orange.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip1_red.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip2_blue.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip2_green.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip2_orange.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip2_red.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip3_blue.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip3_green.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip3_orange.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/playerShip3_red.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/ufoBlue.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/ufoGreen.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/ufoRed.png</File>
+    <File>C:/Users/0917vafe/source/repos/Project1/Project1/Content/ufoYellow.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
